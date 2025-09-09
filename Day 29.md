@@ -79,4 +79,7 @@ git log --oneline --decorate --graph --all
 - Reviewer: **Tom** approved before merging.  
 - `master` branch now contains the **Fox and Grapes story**.  
 - ✔ This matches the required workflow (review → approve → merge).
-- <img width="1883" height="861" alt="Screenshot 2025-09-07 223950" src="https://github.com/user-attachments/assets/b45604af-ae17-4f40-8f3e-ae04a910c471" />
+
+---
+
+<img width="1883" height="861" alt="Screenshot 2025-09-07 223950" src="https://github.com/user-attachments/assets/b45604af-ae17-4f40-8f3e-ae04a910c471" />
