@@ -41,5 +41,8 @@ git commit -m "Restored stashed changes from stash@{1}"
 # 7. Push the changes to the origin
 git push origin master
 ```
+
+--- 
+
 <img width="1919" height="1008" alt="Screenshot 2025-09-08 191501" src="https://github.com/user-attachments/assets/9cf36dee-918d-4fca-9d94-c71f8d6d22f4" />
 
