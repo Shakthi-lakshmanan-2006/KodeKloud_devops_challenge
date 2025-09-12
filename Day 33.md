@@ -7,7 +7,7 @@ The Nautilus DevOps team is working on a project repository called **story-blog*
 - As **Max**, your task is to:  
   1. SSH into the storage server.  
   2. Navigate to Max’s repository (`story-blog`).  
-  3. Fix the typo **"Mooose" → "Mouse"** in `story-index.txt`.  
+  3. Fix the typo **"Mooose" → "Mouse"** in `story-index.txt` .  
   4. Ensure the file has **all 4 story titles**.  
   5. Resolve any merge conflicts properly.  
   6. Commit and push the fixed file to **Max’s repo** on Gitea.  
