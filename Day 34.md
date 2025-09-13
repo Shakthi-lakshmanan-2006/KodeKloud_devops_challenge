@@ -4,7 +4,7 @@
 The Nautilus application development team has a bare Git repository located at `/opt/news.git`, which is cloned under `/usr/src/kodekloudrepos/news`.  
 Your task is to:  
 1. Create a **post-update hook** in this Git repository.  
-2. Ensure that whenever any changes are pushed to the **master branch**, the hook automatically creates a release tag named:  
+2. Ensure that whenever any changes are pushed to the **master branch**, the hook automatically creates a release tag named: 
    ```
    release-YYYY-MM-DD
    ```  
