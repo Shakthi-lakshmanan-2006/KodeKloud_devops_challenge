@@ -1,6 +1,6 @@
 # Day 35 – Docker CE & Docker Compose Installation
 
-## 📌 Task Details
+## 📌 Task Details 
 
 The Nautilus DevOps team wants to containerize applications.  
 For this task on **App Server 2**, you are asked to:
