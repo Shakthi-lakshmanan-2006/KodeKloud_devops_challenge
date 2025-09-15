@@ -9,7 +9,7 @@ They require an **nginx container deployment** on **Application Server 2**.
 - Use the **nginx image with the alpine tag** (`nginx:alpine`).  
 - Ensure the container is in a **running state**.  
 
----
+--- 
 
 ## 🛠️ Things to Know (Beginner-Friendly)
 
