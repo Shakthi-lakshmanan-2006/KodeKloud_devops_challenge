@@ -47,7 +47,7 @@ Use SSH to connect to the correct server (App Server 3):
 ```bash
 ssh tony@stapp03
 ```
-
+ 
 ---
 
 ### Step 2: Verify the Container is Running
