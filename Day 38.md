@@ -9,7 +9,7 @@ containerized environment application features.
 **Task:**\
 - Pull the `busybox:musl` image on **App Server 2** in Stratos DC.\
 - Re-tag (create new tag) this image as `busybox:local`.
-
+ 
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 Beginner Basics You Should Know
