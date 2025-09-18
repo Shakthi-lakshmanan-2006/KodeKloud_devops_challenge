@@ -9,10 +9,9 @@ A new request has been raised for the DevOps team to create a new image from thi
 ### Requirement:
 - Create an image **blog:devops** on **Application Server 1** from a container **ubuntu_latest** that is running on the same server.
 
----
+
 
 ## 🧑‍💻 Beginner-Friendly Basics
-
 ### 1. What is a Container?
 - A **container** is like a running instance of an image.
 - It is similar to a dish prepared from a recipe.
@@ -72,8 +71,8 @@ docker images
 - You should see **blog** under `REPOSITORY` and **devops** under `TAG`.
 
 ---
-![alt text](<Screenshot 2025-09-16 142104.png>)
 
+![Container List](assets/Screenshot 2025-09-16 142104.png)
 ---
 
 
@@ -91,4 +90,4 @@ docker images                            # Verify the image
 - This ensures that any modifications made inside a container are not lost when the container stops.
 
 ---
-![alt text](<Screenshot 2025-09-16 142155.png>)
+![Image Verification](assets/Screenshot 2025-09-16 142155.png)
