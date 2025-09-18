@@ -5,7 +5,7 @@
 One of the Nautilus developers was working to test new changes on a container.  
 He wants to keep a backup of his changes to the container.  
 A new request has been raised for the DevOps team to create a new image from this container.  
-
+ 
 ### Requirement:
 - Create an image **blog:devops** on **Application Server 1** from a container **ubuntu_latest** that is running on the same server.
 
