@@ -10,7 +10,6 @@ A new request has been raised for the DevOps team to create a new image from thi
 - Create an image **blog:devops** on **Application Server 1** from a container **ubuntu_latest** that is running on the same server.
 
 
-
 ## 🧑‍💻 Beginner-Friendly Basics
 ### 1. What is a Container?
 - A **container** is like a running instance of an image.
