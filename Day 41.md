@@ -97,8 +97,8 @@ curl -I http://localhost:8085
 ```
 
 ---
+![Screenshot 2025-09-19 204036](assets/Screenshot%202025-09-19%20204036.png)
 
-![Screenshot 2025-09-19 204213](assets/Screenshot%202025-09-19%20204213.png)
 
 ---
 
@@ -108,8 +108,8 @@ While doing **Step C.1 (installing Apache inside image)**, I **forgot to use `su
 ✅ Solution: Always use `sudo` when installing software on the server. Inside Dockerfile, `sudo` is not required because Docker already runs commands as root.
 
 ---
-![Screenshot 2025-09-19 204036](assets/Screenshot%202025-09-19%20204036.png)
 
+![Screenshot 2025-09-19 204213](assets/Screenshot%202025-09-19%20204213.png)
 ---
 
 ## ✅ Final Summary
