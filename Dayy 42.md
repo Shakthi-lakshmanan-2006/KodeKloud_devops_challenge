@@ -67,7 +67,7 @@ docker network inspect blog
 This shows details about the `blog` network including **Driver**, **Subnet**, and **IPRange**.
 
 ---
-![Screenshot 2025-09-19 214423](assets/Screenshot%202025-09-19%20214423.png)
+![Screenshot 2025-09-19 214344](assets/Screenshot%202025-09-19%20214344.png)
 
 ---
 
@@ -101,7 +101,7 @@ A network named `blog` was already present.
    ```
 
 ---
-![Screenshot 2025-09-19 214344](assets/Screenshot%202025-09-19%20214344.png)
+![Screenshot 2025-09-19 214423](assets/Screenshot%202025-09-19%20214423.png)
 
 ---
 
