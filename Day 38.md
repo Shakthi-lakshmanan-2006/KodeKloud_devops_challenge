@@ -14,6 +14,7 @@ containerized environment application features.
 
 ## 🧑‍💻 Beginner Basics You Should Know
 
+
 ### 1. What is Docker?
 
 Docker is a platform to **package applications** into small, portable
