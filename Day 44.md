@@ -96,10 +96,15 @@ curl http://localhost:5002
 
 ## Challenges I Faced in this Task:
 We are using a newer version of docker compose , so the command
+
 ```bash
 sudo docker-compose up -d
 ```
-Generated me an error
+Generated me an error . So we should use the updated command 
+
+```bash
+sudo docker compose up -d
+```
 
 ---
 
