@@ -115,7 +115,7 @@ If the configuration is correct, you'll see the HTML response from your Apache s
 
 ---
 
-![Screenshot 2025-09-21 204453](assets/Screenshot%202025-09-21%20204453.png)
+![Screenshot 2025-09-21 204203](assets/Screenshot%202025-09-21%20204203.png)
 
 ---
 
@@ -134,7 +134,7 @@ docker pull httpd:2.4.43
 ```
 
 ---
-![Screenshot 2025-09-21 204203](assets/Screenshot%202025-09-21%20204203.png)
+![Screenshot 2025-09-21 204453](assets/Screenshot%202025-09-21%20204453.png)
 
 ---
 
