@@ -5,7 +5,7 @@
 Nautilus project developers are planning to start testing on a new
 project. As per their meeting with the DevOps team, they want to test 
 containerized environment application features.
-
+ 
 **Task:**\
 - Pull the `busybox:musl` image on **App Server 2** in Stratos DC.\
 - Re-tag (create new tag) this image as `busybox:local`.
