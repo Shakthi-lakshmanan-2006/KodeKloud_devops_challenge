@@ -3,7 +3,7 @@
 ## 📝 Task
 
 Nautilus project developers are planning to start testing on a new
-project. As per their meeting with the DevOps team, they want to test
+project. As per their meeting with the DevOps team, they want to test 
 containerized environment application features.
 
 **Task:**\
