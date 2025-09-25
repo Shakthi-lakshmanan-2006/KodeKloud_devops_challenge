@@ -29,6 +29,7 @@ Fix the **broken Dockerfile** located at `/opt/docker` on **App Server 3** so th
 ```bash
 cd /opt/docker
 ```
+
 This command moves you into the directory where the Dockerfile is located.
 
 ---
@@ -38,6 +39,7 @@ This command moves you into the directory where the Dockerfile is located.
 ```bash
 sudo vi Dockerfile
 ```
+
 This opens the Dockerfile using the `vi` editor with superuser permissions.
 
 - Press `i` → Enter insert mode.  
@@ -77,7 +79,9 @@ COPY html/index.html /usr/local/apache2/htdocs/
 ```bash
 docker build -t nautilus-app-image .
 ```
+
 - `-t nautilus-app-image` → Names the image `nautilus-app-image`.
+
 - `.` → Builds from the current directory.
 
 ---
@@ -87,6 +91,7 @@ docker build -t nautilus-app-image .
 ```bash
 docker images
 ```
+
 This lists all available Docker images.  
 ✅ You should see `nautilus-app-image` in the list.
 
@@ -97,6 +102,7 @@ This lists all available Docker images.
 ```bash
 docker run -d -p 8080:8080 -p 443:443 --name nautilus-app nautilus-app-image
 ```
+
 - `-d` → Runs the container in detached (background) mode.  
 - `-p 8080:8080` → Maps port **8080** on the host to **8080** in the container.  
 - `-p 443:443` → Maps port **443** (HTTPS) on the host.  
@@ -109,6 +115,7 @@ docker run -d -p 8080:8080 -p 443:443 --name nautilus-app nautilus-app-image
 ```bash
 curl -k https://localhost
 ```
+
 - `-k` → Ignores SSL warnings (useful when using self-signed certificates).
 
 If the configuration is correct, you'll see the HTML response from your Apache server.
@@ -145,4 +152,3 @@ docker pull httpd:2.4.43
 - Using `curl -k` is only for testing; in production, always use valid certificates.
 
 ---
-
