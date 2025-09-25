@@ -149,6 +149,6 @@ docker pull httpd:2.4.43
 
 - Always ensure your **SSL certificates** are placed correctly before building the image.  
 - If you modify the Dockerfile, you must **rebuild the image** to apply the changes.  
-- Using `curl -k` is only for testing; in production, always use valid certificates.
+- Using `curl -k` is used only for testing; in production, always use valid certificates.
 
 ---
