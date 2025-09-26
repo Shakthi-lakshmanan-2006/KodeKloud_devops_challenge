@@ -136,7 +136,8 @@ While building the image, it was stuck at:
 ---
 
 ## ✅ Summary of Commands
-```bash
+
+```bash 
 cd /python_app
 vi Dockerfile   # create Dockerfile with given instructions
 
