@@ -65,7 +65,7 @@ kubectl describe pod pod-nginx
 
 This table provides a quick reference for the commands executed in this task:
 
-| Command | Purpose |
+| Command | Purpose | 
 | :--- | :--- |
 | `kubectl run pod-nginx --image=nginx:latest --labels="app=nginx_app" --restart=Never --container-name=nginx-container` | Create Pod with Nginx container, labels, and container name. |
 | `kubectl get pods` | Check the current status of the Pod. |
