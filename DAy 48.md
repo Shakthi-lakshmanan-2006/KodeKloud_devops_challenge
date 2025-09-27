@@ -74,5 +74,4 @@ This table provides a quick reference for the commands executed in this task:
 ---
 ![Screenshot 2025-09-23 232950](assets/Screenshot%202025-09-23%20232950.png)
 
-
 ---
