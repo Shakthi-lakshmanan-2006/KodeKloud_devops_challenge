@@ -68,6 +68,6 @@ kubectl describe deployment nginx
 ```
 
 ---
-![Task Completion Confirmation](assets/Screenshot%202025-09-23%20233957.png)
+![Success Card](assets/Screenshot%202025-09-23%20233926.png)
 
 ---
