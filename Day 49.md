@@ -53,7 +53,7 @@ kubectl describe deployment nginx
 **Explanation:** Shows all details about the deployment, including the image used, labels, number of replicas, and pod template.
 
 ---
-![Task Instructions and Terminal Output](assets/Screenshot%202025-09-23%20233252.png)
+![Kubernetes Deployment Created](assets/Screenshot%202025-09-23%20233848.png)
 
 ---
 
@@ -68,6 +68,6 @@ kubectl describe deployment nginx
 ```
 
 ---
-![Kubernetes Deployment Created](assets/Screenshot%202025-09-23%20233848.png)
+![Task Completion Confirmation](assets/Screenshot%202025-09-23%20233957.png)
 
 ---
