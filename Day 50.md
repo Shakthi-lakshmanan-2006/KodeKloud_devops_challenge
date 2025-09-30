@@ -96,7 +96,6 @@ This gives detailed information about the Pod, including the **resource requests
 
 ---
 
-
 ## 🔹 Summary of Commands  
 
 ```bash
