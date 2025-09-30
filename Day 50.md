@@ -86,7 +86,7 @@ kubectl get pods
 kubectl describe pod httpd-pod
 ```
 
-This gives detailed information about the Pod, including the **resource requests and limits** we set.  
+This gives detailed information about the Pod, including the **resource requests and limits** we will set.  
 
 ---
 ![Pod YAML](assets/Screenshot%202025-09-25%20185957.png)
