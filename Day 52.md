@@ -18,7 +18,9 @@
 ## 🟢 Steps with Commands (Beginner Friendly)  
 
 ### Step 1: Check Deployment Rollout History  
+
 See the history of revisions for the deployment:  
+
 ```bash
 kubectl rollout history deployment/nginx-deployment
 ```
@@ -28,7 +30,9 @@ kubectl rollout history deployment/nginx-deployment
 ---
 
 ### Step 2: Rollback to the Previous Revision  
+
 Run this command to revert the deployment back to the last stable version:  
+
 ```bash
 kubectl rollout undo deployment/nginx-deployment
 ```
@@ -37,8 +41,10 @@ kubectl rollout undo deployment/nginx-deployment
 
 ---
 
-### Step 3: Verify the Rollback Status  
+### Step 3: Verify the Rollback Status 
+
 Check if the rollback was successful:  
+
 ```bash
 kubectl rollout status deployment/nginx-deployment
 ```
