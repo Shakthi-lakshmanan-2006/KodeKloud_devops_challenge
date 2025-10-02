@@ -89,13 +89,13 @@ cat index.php
 👉 You should see the `index.php` file with PHP code inside.
 
 ---
-
-![Task Completion Screenshot 1](assets/Screenshot%202025-09-29%20200017.png)
-
----
 ![Task Completion Screenshot 2](assets/Screenshot%202025-09-29%20195537.png)
 
 ---
+![Task Completion Screenshot 3](assets/Screenshot%202025-09-29%20195550.png)
+
+---
+
 ## 🏁 Summary of Commands
 
 ``` bash
@@ -117,6 +117,6 @@ multi-container debugging** are in Kubernetes.
 # DevOps #Kubernetes #Nginx #PHP #Docker #KodeKloud #100DaysOfDevOps
 
 ---
-![Task Completion Screenshot 3](assets/Screenshot%202025-09-29%20195550.png)
 
+![Task Completion Screenshot 1](assets/Screenshot%202025-09-29%20200017.png)
 ---
