@@ -107,16 +107,15 @@ cat index.php
 ```
 
 ✅ With these steps, the **website is back online** using Nginx +
-PHP-FPM, and PHP is being served correctly! 🎉
+PHP-FPM, and PHP is being served correctly!!
 
 ------------------------------------------------------------------------
 
 💡 Key takeaway: This task taught me how important **ConfigMaps and
 multi-container debugging** are in Kubernetes.
 
-# DevOps #Kubernetes #Nginx #PHP #Docker #KodeKloud #100DaysOfDevOps
-
 ---
 
 ![Task Completion Screenshot 1](assets/Screenshot%202025-09-29%20200017.png)
 ---
+
