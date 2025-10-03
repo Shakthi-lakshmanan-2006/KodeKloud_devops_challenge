@@ -4,7 +4,7 @@
 
 Sharing a volume among multiple containers within a pod to save temporary data.
 
-## Basics You Should Know Before This Task
+## Basics You Should Know Before Doing This Task
 
 1. **Pod in Kubernetes**
 
