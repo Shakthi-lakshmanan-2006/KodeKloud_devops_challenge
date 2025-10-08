@@ -114,7 +114,7 @@ kubectl get pods -l app=redis
 All pods should now be **Running**.
 
 ---
-![Screenshot 1](assets/Screenshot%202025-10-02%20151039.png)
+![Screenshot 2](assets/Screenshot%202025-10-02%20144821.png)
 
 ---
 
@@ -148,7 +148,7 @@ Pods also failed because the ConfigMap name was misspelled (`redis-cofig`).
 | Verify final status | `kubectl get pods -l app=redis` |
 
 ---
-![Screenshot 2](assets/Screenshot%202025-10-02%20144821.png)
+![Screenshot 1](assets/Screenshot%202025-10-02%20151039.png)
 
 ---
 
