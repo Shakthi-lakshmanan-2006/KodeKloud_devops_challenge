@@ -136,7 +136,7 @@ kubectl delete deployment ic-deploy-nautilus
 ```
 
 ---
-![Screenshot 1](assets/Screenshot%202025-10-03%20192443.png)
+![Screenshot 3](assets/Screenshot%202025-10-03%20192404.png)
 
 ---
 ![Screenshot 2](assets/Screenshot%202025-10-03%20192344.png)
@@ -165,6 +165,6 @@ kubectl delete deployment ic-deploy-nautilus
 * Use `kubectl logs -f <pod-name>` to watch live output.
 
 ---
-![Screenshot 3](assets/Screenshot%202025-10-03%20192404.png)
+![Screenshot 1](assets/Screenshot%202025-10-03%20192443.png)
 
 ---
