@@ -182,6 +182,9 @@ Hello Nautilus
 ```
 
 ---
+![Screenshot 1](assets/Screenshot%202025-10-03%20171341.png)
+
+---
 ![Screenshot 2](assets/Screenshot%202025-10-03%20171255.png)
 
 ---
@@ -229,6 +232,6 @@ curl http://lo
 ```
 
 ---
-![Screenshot 1](assets/Screenshot%202025-10-03%20171341.png)
+![Screenshot 3](assets/Screenshot%202025-10-04%20221642.png)
 
 ---
