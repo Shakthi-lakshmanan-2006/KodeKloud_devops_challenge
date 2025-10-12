@@ -234,7 +234,7 @@ http://<node-ip>:32678
 ✅ You should see the **Iron Gallery installation page**.
 
 ---
-![Iron Gallery Install Page Screenshot](assets/screenshot_2025-10-05_202703.png)
+![Screenshot 1](assets/Screenshot%202025-10-05%20202703.png)
 
 ---
 
@@ -258,7 +258,7 @@ kubectl get all -n iron-namespace-datacenter
 3. Missing `nodePort` when creating the NodePort service.
 
 ---
-![Task Completion Screenshot](assets/screenshot_2025-10-05_203024.png)
+![Screenshot 2](assets/Screenshot%202025-10-05%20203024.png)
 
 ---
 
