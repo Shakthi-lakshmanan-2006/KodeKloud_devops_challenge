@@ -262,6 +262,6 @@ kubectl get all -n iron-namespace-datacenter
 
 ---
 
-🎯 **Goal:** If the Iron Gallery installation page appears, your deployment is successful!
+🎯 **Goal:** If the Iron Gallery installation page appears, your deployment is successful.!
 
 --
