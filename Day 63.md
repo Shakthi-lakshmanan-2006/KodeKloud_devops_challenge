@@ -255,7 +255,7 @@ kubectl get all -n iron-namespace-datacenter
 
 1. Forgetting to include the namespace in YAML files.
 2. Typing wrong labels or selectors (they must match exactly).
-3. Missing `nodePort` when creating the NodePort services.
+3. Missing `nodePort` when creating the NodePort service.
 
 ---
 ![Screenshot 2](assets/Screenshot%202025-10-05%20203024.png)
