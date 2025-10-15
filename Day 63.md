@@ -253,7 +253,7 @@ kubectl get all -n iron-namespace-datacenter
 
 ## ⚙️ Common Mistakes to Avoid
 
-1. Forgetting to include the namespace in YAML files.
+1. Forgetting to include the namespace in YAML files., this plays an big role .
 2. Typing wrong labels or selectors (they must match exactly).
 3. Missing `nodePort` when creating the NodePort service.
 
