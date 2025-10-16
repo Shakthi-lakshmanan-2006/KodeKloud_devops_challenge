@@ -212,7 +212,7 @@ kubectl apply -f iron-gallery-service.yaml
 kubectl get all -n iron-namespace-datacenter
 ```
 
-You should see:
+You should see:-
 
 - 2 Deployments
 - 2 Pods
