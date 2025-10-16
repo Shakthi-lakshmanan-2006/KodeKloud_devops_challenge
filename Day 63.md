@@ -224,7 +224,7 @@ You should see:
 
 If using KodeKloud environment:
 
-- Get the node IP
+- Get the node IP.
 - Open in browser:
 
 ```
