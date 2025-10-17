@@ -222,10 +222,10 @@ You should see:-
 
 ### Step 7: Access the Application
 
-If using KodeKloud environment:
+If using KodeKloud environment:-
 
 - Get the node IP.
-- Open in browser-
+- Open in browser:
 
 ```
 http://<node-ip>:32678
