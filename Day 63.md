@@ -225,7 +225,7 @@ You should see:-
 If using KodeKloud environment:
 
 - Get the node IP.
-- Open in browser:
+- Open in browser-
 
 ```
 http://<node-ip>:32678
