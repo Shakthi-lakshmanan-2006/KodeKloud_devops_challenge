@@ -198,7 +198,7 @@ spec:
   type: NodePort
 ```
 
-Apply it:
+Apply it:-
 
 ```bash
 kubectl apply -f iron-gallery-service.yaml
