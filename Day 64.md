@@ -115,7 +115,7 @@ kubectl get svc
 
 ---
 
-![Screenshot 1](./assets/WhatsApp%20Image%202025-10-08%20at%2010.01.24%20PM%20(1).jpeg)
+![Screenshot 2](./assets/WhatsApp%20Image%202025-10-08%20at%2010.01.24%20PM.jpeg)
 
 ---
 
@@ -159,6 +159,6 @@ You should see a response from the Flask app — e.g.,
 
 ---
 
-![Screenshot 2](./assets/WhatsApp%20Image%202025-10-08%20at%2010.01.24%20PM.jpeg)
+![Screenshot 1](./assets/WhatsApp%20Image%202025-10-08%20at%2010.01.24%20PM%20(1).jpeg)
 
 ---
