@@ -113,7 +113,9 @@ kubectl get pods
 kubectl get svc
 ```
 
----![Screenshot 1](assets/whatsapp_2025-10-08_220124.jpeg)
+---
+
+![Screenshot 1](assets/whatsapp_2025-10-08_220124.jpeg)
 
 ---
 
@@ -156,6 +158,7 @@ You should see a response from the Flask app — e.g.,
 | 6 | `curl http://<node-ip>:32345` | Test app accessibility |
 
 ---
+
 ![Screenshot 2](assets/whatsapp_2025-10-08_220124_1.jpeg)
 
 ---
