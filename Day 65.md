@@ -147,6 +147,14 @@ maxmemory 2mb
 
 ---
 
+![Screenshot 1](./assets/WhatsApp%20Image%202025-10-08%20at%2010.15.30%20PM%20(1).jpeg)
+
+---
+
+![Screenshot 2](./assets/WhatsApp%20Image%202025-10-08%20at%2010.15.30%20PM.jpeg)
+
+---
+
 ## ✅ Final Checklist for KodeKloud Verification
 
 | Requirement | Status |
@@ -164,3 +172,9 @@ maxmemory 2mb
 
 Once all are ✅, click “Check” on the KodeKloud task window —  
 🎯 You’ll get a **100% successful validation!**
+
+---
+
+![Screenshot 3](./assets/WhatsApp%20Image%202025-10-08%20at%2010.15.31%20PM.jpeg)
+
+---
