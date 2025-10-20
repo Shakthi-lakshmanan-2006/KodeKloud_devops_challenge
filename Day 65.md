@@ -170,7 +170,7 @@ maxmemory 2mb
 | Port 6379 exposed | ✅ |
 | Pod running successfully | ✅ |
 
-Once all are ✅, click “Check” on the KodeKloud task window —  
+Once all are ✅, click “Check” on the KodeKloud task window :  
 🎯 You’ll get a **100% successful validation!**
 
 ---
