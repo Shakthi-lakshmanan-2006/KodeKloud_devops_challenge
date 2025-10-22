@@ -14,7 +14,7 @@ You’ll also use **Secrets** to protect sensitive information like passwords in
 
 ---
 
-## ⚙️ Basics You Should Know Before Doing This Task
+## ⚙️ Basics You Should Know Before Doing This Task :  
 
 ### 🧩 1. Persistent Volume (PV)
 
