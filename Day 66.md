@@ -1,4 +1,4 @@
-# 🗓️ Day 66 — Deploying MySQL on Kubernetes
+# Day 66 — Deploying MySQL on Kubernetes  
 
 ## 🎯 Task Title: 
 **Deploy a MySQL Database with Persistent Storage and Secrets**
