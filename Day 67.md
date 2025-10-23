@@ -4,6 +4,7 @@
 
 In this task, you’ll deploy a **multi-tier Guestbook application** on a **Kubernetes cluster**.  
 It has:
+
 - A **Redis backend** (Master + Slave)
 - A **PHP frontend**  
 
@@ -15,18 +16,23 @@ The frontend interacts with Redis via services to display and store guestbook en
 ## ⚙️ Basics You Should Know Before Starting
 
 ### 🧱 1. Deployments
+
 A **Deployment** manages replicated Pods, ensuring desired replicas are always running.
 
 ### 🌐 2. Services
+
 A **Service** provides stable network access to pods.  
 Types used here:
+
 - **ClusterIP** → internal access (for Redis)
 - **NodePort** → external access (for frontend)
 
 ### 🧩 3. Environment Variables
+
 Used to configure pod behavior (e.g., how frontend connects to Redis).
 
 ### ⚡ 4. Resource Requests
+
 ```yaml
 resources:
   requests:
@@ -35,6 +41,7 @@ resources:
 ```
 
 ### 📦 5. Redis Ports
+
 Redis default port: **6379**
 
 ---
@@ -42,7 +49,9 @@ Redis default port: **6379**
 ## 🪜 Steps to Complete the Task
 
 ### Step 1: Redis Master Deployment
+
 `redis-master-deployment.yaml`
+
 ```yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -72,6 +81,7 @@ spec:
 ```
 
 Apply and verify:
+
 ```bash
 kubectl apply -f redis-master-deployment.yaml
 kubectl get pods -l app=redis,role=master
@@ -80,7 +90,9 @@ kubectl get pods -l app=redis,role=master
 ---
 
 ### Step 2: Redis Master Service
+
 `redis-master-service.yaml`
+
 ```yaml
 apiVersion: v1
 kind: Service
@@ -103,7 +115,9 @@ kubectl get svc redis-master
 ---
 
 ### Step 3: Redis Slave Deployment
+
 `redis-slave-deployment.yaml`
+
 ```yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -143,7 +157,9 @@ kubectl get pods -l app=redis,role=slave
 ---
 
 ### Step 4: Redis Slave Service
+
 `redis-slave-service.yaml`
+
 ```yaml
 apiVersion: v1
 kind: Service
@@ -166,7 +182,9 @@ kubectl get svc redis-slave
 ---
 
 ### Step 5: Frontend Deployment
+
 `frontend-deployment.yaml`
+
 ```yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -206,7 +224,9 @@ kubectl get pods -l app=guestbook
 ---
 
 ### Step 6: Frontend Service
+
 `frontend-service.yaml`
+
 ```yaml
 apiVersion: v1
 kind: Service
@@ -239,17 +259,18 @@ kubectl get pods
 ```
 
 Then open the **App button** or access it via:
+
 ```
 http://<NodeIP>:30009
 ```
 
 ---
 
-![Screenshot 1](assets/screenshot_2025-10-10_205448.png)
+![Screenshot 1](./assets/Screenshot%202025-10-10%20205310.png)
 
 ---
 
-![Screenshot 2](assets/screenshot_2025-10-10_205310.png)
+![Screenshot 2](./assets/Screenshot%202025-10-10%20205333.png)
 
 ---
 
@@ -277,6 +298,6 @@ kubectl get all
 ```
 
 ---
-![Screenshot 3](assetsscreenshot_2025-10-10_205333.png)
+![Screenshot 3](./assets/Screenshot%202025-10-10%20205448.png)
 
 ---
