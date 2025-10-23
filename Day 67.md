@@ -245,7 +245,13 @@ http://<NodeIP>:30009
 
 ---
 
+![Screenshot 1](assets/screenshot_2025-10-10_205448.png)
 
+---
+
+![Screenshot 2](assets/screenshot_2025-10-10_205310.png)
+
+---
 
 ## ⚠️ Common Issues & Fixes
 
@@ -269,3 +275,8 @@ kubectl apply -f frontend-service.yaml
 
 kubectl get all
 ```
+
+---
+![Screenshot 3](assetsscreenshot_2025-10-10_205333.png)
+
+---
