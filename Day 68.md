@@ -30,8 +30,8 @@ deployment --- forming the backbone of **CI/CD pipelines**.
   **Pipeline**               A series of automated steps defined in a
                              `Jenkinsfile`.
 
-  **Admin Setup**            Jenkins requires creating an admin user on
-                             the first launch.
+**Admin Setup**            Jenkins requires creating an admin user on
+                             the first launch
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -153,9 +153,9 @@ Open Jenkins in your browser:
 
     http://<jenkins-server-ip>:8080
 
--   Paste the **initial admin password** when prompted.
--   Install suggested plugins.
--   Create the **admin user** as shown below.
+- Paste the **initial admin password** when prompted.
+- Install suggested plugins.
+- Create the **admin user** as shown below.
 
 ------------------------------------------------------------------------
 
@@ -172,7 +172,15 @@ Fill out the admin details when prompted:
 
 Click **Save and Finish** → **Start using Jenkins**.
 
-------------------------------------------------------------------------
+---
+
+![Screenshot 1](./assets/Screenshot%202025-10-21%20144810.png)
+
+---
+
+![Screenshot 2](./assets/Screenshot%202025-10-21%20144833.png)
+
+---
 
 ## 🧩 Jenkins Service Management Commands
 
@@ -199,5 +207,11 @@ You've successfully: 1. Learned Jenkins fundamentals and CI/CD basics.\
 
 ### 📁 Reference
 
--   Jenkins Official Docs: <https://www.jenkins.io/doc/>
--   RedHat Jenkins Repo: <https://pkg.jenkins.io/redhat-stable/>
+- Jenkins Official Docs: <https://www.jenkins.io/doc/>
+- RedHat Jenkins Repo: <https://pkg.jenkins.io/redhat-stable/>
+
+---
+
+![Screenshot 3](./assets/Screenshot%202025-10-21%20145026.png)
+
+---
