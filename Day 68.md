@@ -205,7 +205,7 @@ You've successfully: 1. Learned Jenkins fundamentals and CI/CD basics.\
 
 ------------------------------------------------------------------------
 
-### Reference
+### Reference : 
 
 - Jenkins Official Docs: <https://www.jenkins.io/doc/>
 - RedHat Jenkins Repo: <https://pkg.jenkins.io/redhat-stable/>
