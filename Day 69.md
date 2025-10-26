@@ -51,8 +51,10 @@ Below are the exact steps to complete this Jenkins plugin installation task.
 Step 1: Access Jenkins UI
 ```
 
-# Click on the 'Jenkins' button in the KodeKloud lab environment.
-# Login with the following credentials:
+### Click on the 'Jenkins' button in the KodeKloud lab environment
+
+### Login with the following credentials
+
 Username: admin
 Password: Adm!n321
 
@@ -60,39 +62,48 @@ Password: Adm!n321
 Step 2: Open Plugin Management
 ```
 
-# In the Jenkins dashboard:
-# - Click on "Manage Jenkins" (on the left side menu)
-# - Then select "Plugins" (on the right side options)
+### In the Jenkins dashboard
+
+### - Click on "Manage Jenkins" (on the left side menu)
+
+### - Then select "Plugins" (on the right side options)
 
 ```bash
 Step 3: Install Git and GitLab Plugins
 ```
 
-# - Go to the 'Available plugins' tab.
-# - In the search box, type "Git" → select it.
-# - Similarly, type "GitLab" → select it.
-# - Click 'Install without restart' or 'Download now and install after restart'.
+### - Go to the 'Available plugins' tab
+
+### - In the search box, type "Git" → select it
+
+### - Similarly, type "GitLab" → select it
+
+### - Click 'Install without restart' or 'Download now and install after restart'
 
 ```bash
 Step 4: Verify Installation
 ```
 
-# - Once installation completes, go to the "Installed plugins" tab.
-# - Check that both 'Git' and 'GitLab' plugins are listed.
-# - If GitLab-related plugins fail, re-search them under 'Available' and reinstall.
+### - Once installation completes, go to the "Installed plugins" tab
+
+### - Check that both 'Git' and 'GitLab' plugins are listed.
+### - If GitLab-related plugins fail, re-search them under 'Available' and reinstall.
 
 ```bash
 Step 5: Restart Jenkins if Required
 ```
 
-# Some plugin installations need a Jenkins restart.
-# - Choose the option: "Restart Jenkins when installation is complete and no jobs are running".
-# - Wait for Jenkins to restart and re-login.
+### Some plugin installations need a Jenkins restart
+
+### - Choose the option: "Restart Jenkins when installation is complete and no jobs are running"
+
+### - Wait for Jenkins to restart and re-login
 
 ```bash
 Step 6: Final Check
 ```
-# After login, recheck "Manage Jenkins → Plugins → Installed" to confirm both plugins are active.
+
+### After login, recheck "Manage Jenkins → Plugins → Installed" to confirm both plugins are active
 
 ---
 ![Screenshot](./assets/Screenshot%202025-10-21%20162034.png)
