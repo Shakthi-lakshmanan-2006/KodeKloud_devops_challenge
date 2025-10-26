@@ -16,21 +16,30 @@ Your task is to log in to Jenkins, install the required plugins, and ensure that
 Before performing the task, understand the following key points:
 
 ### 1. Jenkins Plugins
+
 Plugins extend Jenkins functionality. Each plugin adds new features such as:
+
 - Integrations with tools like **Git**, **GitLab**, **Docker**, etc.
 - UI enhancements.
 - Build and deployment capabilities.
 
 ### 2. Git Plugin
+
 The **Git plugin** allows Jenkins to clone, pull, and interact with Git repositories during builds.
 
 ### 3. GitLab Plugin
+
 The **GitLab plugin** enables Jenkins to integrate with GitLab CI/CD pipelines — it allows Jenkins to trigger jobs based on GitLab commits, webhooks, and merges.
 
 ### 4. Jenkins Plugin Installation Paths
+
 You can install plugins from:
+
 - **Manage Jenkins → Plugins → Available Plugins tab**
 - Using Jenkins CLI or terminal commands (advanced).
+
+---
+![Screenshot](./assets/Screenshot%202025-10-21%20162045.png)
 
 ---
 
@@ -71,6 +80,9 @@ Password: Adm!n321
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-10-21%20162034.png)
+
+---
 
 ## ✅ Summary
 
@@ -88,7 +100,12 @@ Password: Adm!n321
 ---
 
 ### 💡 Additional Tips
+
 - Always verify plugin compatibility with your Jenkins version.
 - Restart Jenkins after installing major integrations like GitLab.
 - If plugin installation fails, check Jenkins logs (`Manage Jenkins → System Log`).
 
+---
+![Screenshot](./assets/Screenshot%202025-10-21%20162121.png)
+
+---
