@@ -86,8 +86,8 @@ Step 4: Verify Installation
 
 ### - Once installation completes, go to the "Installed plugins" tab
 
-### - Check that both 'Git' and 'GitLab' plugins are listed.
-### - If GitLab-related plugins fail, re-search them under 'Available' and reinstall.
+### * Check that both 'Git' and 'GitLab' plugins are listed.
+### * If GitLab-related plugins fail, re-search them under 'Available' and reinstall.
 
 ```bash
 Step 5: Restart Jenkins if Required
