@@ -110,7 +110,7 @@ Step 6: Final Check
 
 ---
 
-## ✅ Summary
+### ✅ Summary
 
 | Step | Description |
 |------|--------------|
