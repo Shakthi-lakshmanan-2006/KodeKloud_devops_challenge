@@ -95,9 +95,9 @@ Step 5: Restart Jenkins if Required
 
 ### Some plugin installations need a Jenkins restart
 
-### - Choose the option: "Restart Jenkins when installation is complete and no jobs are running"
+### *Choose the option: "Restart Jenkins when installation is complete and no jobs are running"
 
-### - Wait for Jenkins to restart and re-login
+### *Wait for Jenkins to restart and re-login
 
 ```bash
 Step 6: Final Check
