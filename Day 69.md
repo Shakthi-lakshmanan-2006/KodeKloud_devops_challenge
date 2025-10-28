@@ -64,9 +64,9 @@ Step 2: Open Plugin Management
 
 ### In the Jenkins dashboard
 
-### - Click on "Manage Jenkins" (on the left side menu)
+### * Click on "Manage Jenkins" (on the left side menu)
 
-### - Then select "Plugins" (on the right side options)
+### * Then select "Plugins" (on the right side options)
 
 ```bash
 Step 3: Install Git and GitLab Plugins
