@@ -72,9 +72,9 @@ Step 2: Open Plugin Management
 Step 3: Install Git and GitLab Plugins
 ```
 
-### - Go to the 'Available plugins' tab
+### * Go to the 'Available plugins' tab
 
-### - In the search box, type "Git" → select it
+### * In the search box, type "Git" → select it
 
 ### - Similarly, type "GitLab" → select it
 
