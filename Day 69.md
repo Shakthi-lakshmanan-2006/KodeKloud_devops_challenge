@@ -76,9 +76,9 @@ Step 3: Install Git and GitLab Plugins
 
 ### * In the search box, type "Git" → select it
 
-### - Similarly, type "GitLab" → select it
+### * Similarly, type "GitLab" → select it
 
-### - Click 'Install without restart' or 'Download now and install after restart'
+### * Click 'Install without restart' or 'Download now and install after restart'
 
 ```bash
 Step 4: Verify Installation
