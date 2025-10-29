@@ -129,7 +129,7 @@ Step 6: Final Check
 
 * Always verify plugin compatibility with your Jenkins version.
 * Restart Jenkins after installing major integrations like GitLab.
-- If plugin installation fails, check Jenkins logs (`Manage Jenkins → System Log`).
+* If plugin installation fails, check Jenkins logs (`Manage Jenkins → System Log`).
 
 ---
 ![Screenshot](./assets/Screenshot%202025-10-21%20162121.png)
