@@ -100,10 +100,17 @@ Now go to:
 Ensure **mariyam** has only **read** permissions for this job, disregarding SCM or Agent-related permissions.
 
 ---
+![Screenshot 1](./assets/Screenshot%202025-10-21%20170247.png)
+
+---
+![Screenshot 2](./assets/Screenshot%202025-10-21%20164526.png)
+
+---
 
 ## 🧠 Summary
 
 ✅ You successfully:
+
 - Logged into Jenkins as the admin user.  
 - Created a new user `mariyam`.  
 - Installed and applied **Project-based Matrix Authorization Strategy**.  
@@ -113,3 +120,8 @@ Ensure **mariyam** has only **read** permissions for this job, disregarding SCM 
 ---
 
 ## 🏁 End of Day 70 — Jenkins User Access Configuration Complete 🎯
+
+---
+![Screenshot 3](./assets/Screenshot%202025-10-21%20170335.png)
+
+---
