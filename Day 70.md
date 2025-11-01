@@ -111,7 +111,7 @@ Ensure **mariyam** has only **read** permissions for this job, disregarding SCM 
 
 ✅ You successfully:
 
-- Logged into Jenkins as the admin user.  
+* Logged into Jenkins as the admin user.  
 - Created a new user `mariyam`.  
 - Installed and applied **Project-based Matrix Authorization Strategy**.  
 - Granted appropriate role permissions to both `admin` and `mariyam`.  
