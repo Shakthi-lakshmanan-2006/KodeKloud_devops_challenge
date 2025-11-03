@@ -10,7 +10,7 @@
 Before starting, ensure the following prerequisites are met:
 
 * Jenkins server is **installed and running**.  
-* You have access to the **Jenkins dashboard** via the provided URL.  
+- You have access to the **Jenkins dashboard** via the provided URL.  
 - Credentials for the admin user are available.
 
 ```bash
