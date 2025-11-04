@@ -17,18 +17,25 @@ They’ve set up a **Jenkins Server**, and our goal is to create a Jenkins job t
 Before you begin, ensure you understand these core concepts:
 
 ### 🔹 Jenkins
+
 - **Jenkins** is an open-source automation tool used for **Continuous Integration (CI)** and **Continuous Delivery (CD)**.
 - It automates repetitive tasks like build, test, and deployment.
 
 ### 🔹 Jenkins Job
+
 - A **Jenkins Job** is a unit of work that Jenkins executes.
 - It can be a Freestyle, Pipeline, or Multibranch job.
 
 ### 🔹 Parameters in Jenkins
+
 - Jenkins allows adding parameters (like `PACKAGE`) to make jobs dynamic and reusable.
 
 ### 🔹 SSH & Remote Execution
+
 - Jenkins can run commands on remote servers (like the **storage server**) using SSH authentication.
+
+---
+![Screenshot](./assets/Screenshot%202025-10-22%20215120.png)
 
 ---
 
@@ -39,6 +46,7 @@ Before you begin, ensure you understand these core concepts:
 1. **Access Jenkins**
    - Click on the **Jenkins** button in the top navigation bar.
    - Log in using the credentials:
+
      ```bash
      Username: admin
      Password: Adm!n321
@@ -46,15 +54,18 @@ Before you begin, ensure you understand these core concepts:
 
 2. **Create a New Job**
    - Go to **“New Item”** → Enter job name:  
+
      ```bash
      install-packages
      ```
+
    - Select **Freestyle project** → Click **OK**.
 
 3. **Add Parameter**
    - Scroll to **“This project is parameterized”** → Check the box.
    - Click **Add Parameter → String Parameter**.
    - Set:
+
      ```bash
      Name: PACKAGE
      Default Value: httpd
@@ -64,6 +75,7 @@ Before you begin, ensure you understand these core concepts:
 4. **Configure Build Step**
    - Click on **“Add Build Step” → Execute shell**.
    - Enter the following script:
+
      ```bash
      ssh natasha@ststor01 "sudo yum install -y $PACKAGE"
      ```
@@ -102,6 +114,9 @@ thor@jump_host$ ssh natasha@ststor01
 # Generate SSH key if needed
 thor@jump_host$ cat ~/.ssh/id_ed25519
 ```
+
+---
+![Screenshot](./assets/Screenshot%202025-10-22%20215749.png)
 
 ---
 
@@ -173,3 +188,8 @@ pipeline {
 **🎖️ Challenge Completed Successfully — Day 72!**
 > _“Automation applied to an efficient operation will magnify the efficiency.”_  
 > — Bill Gates
+
+---
+![Screenshot](./assets/Screenshot%202025-10-22%20215916.png)
+
+---
