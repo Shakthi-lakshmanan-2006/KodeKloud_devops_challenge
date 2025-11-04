@@ -35,7 +35,7 @@ Before you begin, ensure you understand these core concepts:
 - Jenkins can run commands on remote servers (like the **storage server**) using SSH authentication.
 
 ---
-![Screenshot](./assets/Screenshot%202025-10-22%20215120.png)
+![Screenshot](./assets/Screenshot%202025-10-22%20215749.png)
 
 ---
 
@@ -116,7 +116,7 @@ thor@jump_host$ cat ~/.ssh/id_ed25519
 ```
 
 ---
-![Screenshot](./assets/Screenshot%202025-10-22%20215749.png)
+![Screenshot](./assets/Screenshot%202025-10-22%20215120.png)
 
 ---
 
