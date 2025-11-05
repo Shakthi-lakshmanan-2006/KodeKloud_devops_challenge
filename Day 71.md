@@ -1,7 +1,7 @@
 # 🚀 Day 71 : Automate Package Installation using Jenkins Job
 
 > _"Automation is the key to efficiency — let Jenkins do the heavy lifting for you."_  
-> — KodeKloud DevOps Challenge 🧑‍💻
+> — KodeKloud DevOps Challenge 🧑
 
 ---
 
