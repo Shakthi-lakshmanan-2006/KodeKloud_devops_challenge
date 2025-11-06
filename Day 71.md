@@ -45,7 +45,7 @@ Before you begin, ensure you understand these core concepts:
 
 1. **Access Jenkins**
    * Click on the **Jenkins** button in the top navigation bar.
-   - Log in using the credentials:
+   * Log in using the credentials:
 
      ```bash
      Username: admin
