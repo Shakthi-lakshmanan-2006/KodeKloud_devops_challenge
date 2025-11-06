@@ -44,8 +44,8 @@ Before you begin, ensure you understand these core concepts:
 ### 🖥️ Part 1 — Jenkins UI Setup
 
 1. **Access Jenkins**
-   * Click on the **Jenkins** button in the top navigation bar.
-   * Log in using the credentials:
+   - Click on the **Jenkins** button in the top navigation bar.
+   - Log in using the credentials:
 
      ```bash
      Username: admin
