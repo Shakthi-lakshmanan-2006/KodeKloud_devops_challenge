@@ -17,6 +17,9 @@ Parameterized builds allow users to pass different values when running a job. Th
 | **Choice Parameter** | `env` | To choose from multiple predefined values | `Development`, `Staging`, `Production` |
 
 ---
+![Screenshot 1](./assets/Screenshot%202025-10-25%20213253.png)
+
+---
 
 ## 🛠 Steps to Create the Parameterized Job
 
@@ -57,6 +60,9 @@ echo "This is env parameter value : $env"
 3. Click **Build**
 
 ---
+![Screenshot 2](./assets/Screenshot%202025-10-25%20213208.png)
+
+---
 
 ## 🧾 Summary of Commands
 
@@ -70,3 +76,8 @@ echo "This is env parameter value : $env"
 ✅ **You have successfully created a Parameterized Jenkins job!**  
 You can now deploy to different environments using the same job just by selecting parameter values.
 
+---
+
+![Screenshot 3](./assets/Screenshot%202025-10-25%20213339.png)
+
+---
