@@ -55,7 +55,7 @@ echo "This is env parameter value : $env"
 ```
 
 ### 5. Run the Build
-1. Click **Build with Parameters**
+* Click **Build with Parameters**
 2. Select `env = Staging`
 3. Click **Build**
 
