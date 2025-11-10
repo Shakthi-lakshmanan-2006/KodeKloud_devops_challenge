@@ -33,8 +33,8 @@ Parameterized builds allow users to pass different values when running a job. Th
 3. Select **Freestyle Project** → Click **OK**.
 
 ### 3. Enable Parameters
-* Check the option: **This Project is Parameterized**
-* Add a **String Parameter**:
+1. Check the option: **This Project is Parameterized**
+2. Add a **String Parameter**:
    - Name: `Stage`
    - Default value: `Build`
 3. Add a **Choice Parameter**:
