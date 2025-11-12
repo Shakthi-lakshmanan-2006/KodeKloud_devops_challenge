@@ -82,8 +82,8 @@ cat ~/.ssh/id_rsa     # copy the private key
 
 ### 7. Add Build Step
 
-* Go to **Build Steps → Execute shell script on remote host using SSH**
-* Command to run:
+- Go to **Build Steps → Execute shell script on remote host using SSH**
+- Command to run:
 
   ```bash
   scp /var/log/httpd/access_log /var/log/httpd/error_log natasha@ststor01:/usr/src/devops
