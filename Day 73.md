@@ -73,7 +73,7 @@ cat ~/.ssh/id_rsa     # copy the private key
 - Click **Create a job**
 - Name: `copy-logs`
 - Select **Freestyle Project**
-- Go to **Build Triggers → Build periodically**
+* Go to **Build Triggers → Build periodically**
 * Add schedule:
 
   ```
