@@ -11,6 +11,11 @@ In this task, we configure a Jenkins job that performs automated MySQL database 
 5. Cron Schedule
 6. Parameterized Jobs
 
+---
+![Screenshot](./assets/Screenshot%202025-10-31%20232952.png)
+
+---
+
 ## Steps to Complete the Task
 
 ### Step 1: Login to Jenkins
@@ -64,6 +69,15 @@ scp -o StrictHostKeyChecking=no peter@stdb01:${FILE_PATH} clint@stbkp01:/home/cl
 
 ### Step 10: Run the Job
 - Build with parameters.
+
+---
+![Screenshot](./assets/Screenshot%202025-10-31%20232617.png)
+
+---
+
+![Screenshot](./assets/Screenshot%202025-10-31%20233105.png)
+
+---
 
 ## Summary of Commands
 ```bash
