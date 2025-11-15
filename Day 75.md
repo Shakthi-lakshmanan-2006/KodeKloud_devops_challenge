@@ -5,7 +5,9 @@ In modern CI/CD pipelines, Jenkins plays a crucial role in orchestrating automat
 Day 75 focuses on configuring SSH-based Jenkins slave nodes on the Nautilus DevOps environment using three app servers.
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-01%20125619.png)
 
+---
 
 ## Basics to Know Before Starting
 
@@ -158,6 +160,12 @@ Repeat for other nodes:
 - testing-node3 → stapp03
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-01%20122829.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20125445.png)
+
+---
 
 ## Summary of Commands Used
 
@@ -189,3 +197,8 @@ cat ~/.ssh/id_ed25519
 
 ### ✔ Completed: Jenkins Slave Nodes Successfully Configured!  
 This documentation can now be posted on LinkedIn as Day 75 progress.
+
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20125707.png)
+
+---
