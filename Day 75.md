@@ -156,7 +156,7 @@ hostname
 ```
 
 Repeat for other nodes:
-- testing-node2 → stapp02
+* testing-node2 → stapp02
 - testing-node3 → stapp03
 
 ---
