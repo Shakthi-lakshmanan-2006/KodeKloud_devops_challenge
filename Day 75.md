@@ -157,7 +157,7 @@ hostname
 
 Repeat for other nodes:
 * testing-node2 → stapp02
-- testing-node3 → stapp03
+* testing-node3 → stapp03
 
 ---
 ![Screenshot](./assets/Screenshot%202025-11-01%20122829.png)
