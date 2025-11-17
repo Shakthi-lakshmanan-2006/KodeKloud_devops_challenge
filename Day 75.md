@@ -148,7 +148,7 @@ Repeat similarly for:
 ### **9️⃣ Test the Nodes with a Job**
 
 #### Create a job:
-* Name: **testing-node**
+- Name: **testing-node**
 - Restrict execution to: `stapp01`
 - Add build step → Execute Shell:
 ```sh
