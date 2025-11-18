@@ -3,6 +3,11 @@
 ## Introduction
 In this task, the objective is to configure **project-based security in Jenkins**. The challenge involves managing user permissions at the job level using the **Matrix Authorization Strategy** plugin and applying custom permissions to two specific users for an existing Jenkins job named **Packages**.
 
+---
+![Screenshot ](./assets/Screenshot%202025-11-01%20134201.png)
+
+---
+
 ## Concepts to Know Before Starting
 
 ### 🔐 Jenkins Authorization Strategies
@@ -27,6 +32,14 @@ In this task, the objective is to configure **project-based security in Jenkins*
    - Assign permissions:
      - sam: read, build, configure
      - rohan: build, cancel, configure, read, update, tag
+
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20134141.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20134241.png)
+
+---
 
 ## Summary of Commands Used
 This task is fully GUI-based; no terminal commands used.
