@@ -90,6 +90,6 @@ git remote -v
 - Fixed Git permissions
 
 ---
-[Screenshot](./assets/Screenshot%202025-11-01%20185508.png)
+![Screenshot](./assets/Screenshot%202025-11-01%20185508.png)
 
 ---
