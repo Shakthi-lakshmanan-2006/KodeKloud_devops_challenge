@@ -10,6 +10,11 @@ In this task, we work with Gitea, Jenkins, and a Storage Server to configure a J
 - Basic Git operations
 - How Jenkins agents connect using agent.jar
 
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20185412.png)
+
+---
+
 ## Steps Performed
 
 ### 1. Login to Gitea
@@ -67,6 +72,14 @@ git config --global --add safe.directory /var/www/html
 sudo !!
 git remote -v
 ```
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20185204.png)
+
+---
+
+![Screenshot](./assets/Screenshot%202025-11-01%20185115.png)
+
+---
 
 ## Summary
 - Logged into Gitea and Jenkins
@@ -75,3 +88,8 @@ git remote -v
 - Configured and connected node
 - Created pipeline job
 - Fixed Git permissions
+
+---
+[Screenshot](./assets/Screenshot%202025-11-01%20185508.png)
+
+---
