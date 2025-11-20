@@ -87,7 +87,7 @@ git remote -v
 - Prepared storage server
 - Configured and connected node
 - Created pipeline job
-- Fixed Git permissions
+* Fixed Git permissions
 
 ---
 ![Screenshot](./assets/Screenshot%202025-11-01%20185508.png)
