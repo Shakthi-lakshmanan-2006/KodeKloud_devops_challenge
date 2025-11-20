@@ -86,7 +86,7 @@ git remote -v
 - Installed Pipeline plugin
 - Prepared storage server
 - Configured and connected node
-- Created pipeline job
+* Created pipeline job
 * Fixed Git permissions
 
 ---
