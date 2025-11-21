@@ -32,6 +32,9 @@ You must understand:
 - `git fetch`  
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-01%20194921.png)
+
+---
 
 ## 🚀 Steps to Perform the Task
 
@@ -141,6 +144,12 @@ pipeline {
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-01%20194759.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20194829.png)
+
+---
 
 ## 🔍 Summary of Commands
 
@@ -166,3 +175,7 @@ git pull origin <branch>
 ## ✅ Output  
 A Jenkins job that deploys code from either **master** or **feature** based on the parameter you choose.
 
+---
+![Screenshot](./assets/Screenshot%202025-11-01%20195052.png)
+
+---
