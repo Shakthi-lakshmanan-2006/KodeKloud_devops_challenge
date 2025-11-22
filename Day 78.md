@@ -92,8 +92,8 @@ git branch
 
 ### **6. Create Jenkins Pipeline Job**
 
-* Dashboard → **New Item**
-* Name: `nautilus-webapp-job`
+- Dashboard → **New Item**
+- Name: `nautilus-webapp-job`
 - Choose: **Pipeline**
 - Check: **This project is parameterized**
 - Add: **String Parameter**
