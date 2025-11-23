@@ -97,8 +97,8 @@ git branch
 - Choose: **Pipeline**
 - Check: **This project is parameterized**
 - Add: **String Parameter**
-  * Name: `BRANCH`
-  * Default: `master`
+  - Name: `BRANCH`
+  - Default: `master`
 
 ---
 
