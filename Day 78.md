@@ -98,7 +98,7 @@ git branch
 - Check: **This project is parameterized**
 - Add: **String Parameter**
   * Name: `BRANCH`
-  - Default: `master`
+  * Default: `master`
 
 ---
 
