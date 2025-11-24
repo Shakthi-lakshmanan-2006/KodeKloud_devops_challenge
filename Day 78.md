@@ -96,7 +96,7 @@ git branch
 - Name: `nautilus-webapp-job`
 - Choose: **Pipeline**
 - Check: **This project is parameterized**
-- Add: **String Parameter**
+* Add: **String Parameter**
   - Name: `BRANCH`
   - Default: `master`
 
