@@ -11,10 +11,14 @@ In this task, the DevOps team needs to automate deployment of a simple web appli
 This forms a complete CI/CD workflow—**Git → Jenkins → Apache Webserver**.
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-26%20180318.png)
+
+---
 
 ## ⭐ Things You Should Know Before Doing This Task
 
 ### 1️⃣ Gitea Repository Information
+
 - Git service: **Gitea**
 - Username: **sarah**
 - Password: **sarah_pass123**
@@ -27,6 +31,7 @@ This forms a complete CI/CD workflow—**Git → Jenkins → Apache Webserver**.
 ---
 
 ### 2️⃣ Apache (httpd) Web Server
+
 - Must serve the website on **port 8080**
 - Document root:
 
@@ -39,6 +44,7 @@ Apache must be installed and configured to listen on the correct port on all app
 ---
 
 ### 3️⃣ Jenkins Job Requirements
+
 Create a Jenkins freestyle job named:
 
 ```
@@ -56,6 +62,7 @@ This job must:
 ---
 
 ### 4️⃣ File Permission Requirement
+
 The directory `/var/www/html` must be writable by **sarah** so Jenkins can deploy files:
 
 ```
@@ -106,8 +113,8 @@ nautilus-app-deployment
 http://gitea.stratos.xfusioncorp.com/sarah/web.git
 ```
 
-   - Credentials: Add Sarah's credentials  
-   - Branch:
+- Credentials: Add Sarah's credentials  
+- Branch:
 
 ```
 master
@@ -189,6 +196,12 @@ http://<APP-SERVER-IP>:8080
 You should now see your updated webpage being served from Apache.
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-26%20180331.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-11-26%20180432.png)
+
+---
 
 ## ⭐ Summary of All Commands Used
 
@@ -224,4 +237,6 @@ rsync -av --delete . /var/www/html/
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-26%20180752.png)
 
+---
