@@ -99,8 +99,8 @@ This ensures Jenkins (running via Sarah or copying through Sarah-owned paths) ca
 ### 🔹 Step 3: Create Jenkins Job — `nautilus-app-deployment`
 
 1. Open Jenkins → **New Item**
-* Select **Freestyle Project**
-* Set name:
+2. Select **Freestyle Project**
+3. Set name:
 
 ```
 nautilus-app-deployment
