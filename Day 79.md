@@ -53,7 +53,7 @@ nautilus-app-deployment
 
 This job must:
 
-- Pull code from the Gitea repository  
+* Pull code from the Gitea repository  
 - Watch the **master** branch  
 - Run automatically on every push  
 - Deploy the repo contents into `/var/www/html`  
