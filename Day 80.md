@@ -60,6 +60,9 @@ This gives you a small but complete CI/CD flow:
 - **Post-build actions** – used to trigger other jobs, and to control on which result (success/unstable/failure) they should run.
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-30%20194803%20-%20Copy%20(2).png)
+
+---
 
 ## 3. Step-by-Step: Completing the Task
 
@@ -247,6 +250,12 @@ journalctl -u httpd --no-pager | tail
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-11-30%20202306.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-11-30%20202347.png)
+
+---
 
 ### Final Idea
 
@@ -261,3 +270,8 @@ By the end of **Day 80**, you have:
   - Runs automatically as a **downstream job** **only when** deployment is successful
 
 This pattern is very common in real DevOps pipelines: separate **deploy** and **service-management** responsibilities, but tie them together with Jenkins job chaining.
+
+---
+![Screenshot](./assets/Screenshot%202025-11-30%20202347.png)
+
+---
