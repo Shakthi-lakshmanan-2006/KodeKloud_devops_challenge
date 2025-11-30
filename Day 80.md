@@ -272,6 +272,6 @@ By the end of **Day 80**, you have:
 This pattern is very common in real DevOps pipelines: separate **deploy** and **service-management** responsibilities, but tie them together with Jenkins job chaining.
 
 ---
-![Screenshot](./assets/Screenshot%202025-11-30%20202347.png)
+![Screenshot](./assets/Screenshot%202025-11-30%20202721.png)
 
 ---
