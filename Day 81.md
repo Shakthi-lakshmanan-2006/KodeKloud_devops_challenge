@@ -10,6 +10,9 @@ In simple words, we will:
 This is a beginner‑friendly DevOps task that teaches SCM → Deployment → Testing automation.
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-01%20204052.png)
+
+---
 
 ## 📌 Things You Should Know Before Starting
 ### 1. **Basic Git Commands**
@@ -101,6 +104,12 @@ pipeline {
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-01%20204101.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-12-01%20204245.png)
+
+---
 
 ## 📌 Summary of Commands Used
 
@@ -138,3 +147,8 @@ curl -s -o /dev/null -w '%{http_code}' http://stlb01:8091
 
 ## 🎉 Final Note
 This completes Day 81 KodeKloud Challenge—deploying and testing a web application using a Jenkins pipeline!
+
+---
+![Screenshot](./assets/Screenshot%202025-12-01%20204347.png)
+
+---
