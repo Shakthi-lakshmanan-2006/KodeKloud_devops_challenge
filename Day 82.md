@@ -47,6 +47,9 @@ ansible-playbook -i inventory playbook.yml
 The playbook installs and starts the `httpd` service.
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-02%20201127.png)
+
+---
 
 ## 🛠 Steps You Followed to Complete the Task  
 
@@ -112,3 +115,8 @@ This task strengthens your understanding of:
 - Idempotency in configuration management  
 
 Day 82 successfully completed! 🚀
+
+---
+![Screenshot](./assets/Screenshot%202025-12-02%20201943.png)
+
+---
