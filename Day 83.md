@@ -1,4 +1,4 @@
-# Day 83: Ansible Playbook Completion Task
+# Day 83: Troubleshoot and Create Ansible Playbook
 
 ## 📝 Introduction  
 In this task, we work on the *jump host* to complete an Ansible playbook that a previous team member left unfinished. The objective is simple: fix the inventory file correctly so that the playbook runs on **App Server 1**, and then create a playbook to generate an empty file on the target server.
@@ -7,6 +7,9 @@ The original question may look large, but in simpler words:
 
 👉 **You must update the inventory so that Ansible knows which server to connect to,  
 and then write a playbook that creates the file `/tmp/file.txt` on `stapp01`.**
+
+---
+![Screenshot](./assets/Screenshot%202025-12-03%20171410.png)
 
 ---
 
@@ -85,6 +88,9 @@ PLAY RECAP – success
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-03%20171422.png)
+
+---
 
 ## 📌 Summary of Commands Used
 
@@ -102,3 +108,8 @@ PLAY RECAP – success
 
 ## ✅ Final Output  
 A fully working inventory + a playbook that successfully creates `/tmp/file.txt` on **App Server 1**.
+
+---
+![Screenshot](./assets/Screenshot%202025-12-03%20171507.png)
+
+---
