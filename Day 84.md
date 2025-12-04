@@ -48,6 +48,9 @@ A valid playbook contains:
 Correct SSH credentials in the inventory are mandatory.
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-04%20200935.png)
+
+---
 
 ## 🛠 Steps I Followed to Complete the Task
 
@@ -101,6 +104,9 @@ Playbook content:
 ```bash
 ansible-playbook -i inventory playbook.yml
 ```
+
+---
+![Screenshot](./assets/Screenshot%202025-12-04%20200949.png)
 
 ---
 
