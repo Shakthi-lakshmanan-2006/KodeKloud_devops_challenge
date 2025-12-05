@@ -50,6 +50,9 @@ Used for:
 Using `ansible_user` allows each host to automatically assign the correct owner and group.
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-05%20193748.png)
+
+---
 
 ## Steps I Followed to Complete the Task
 
@@ -103,6 +106,9 @@ ls -lah /tmp/nfsshare.txt
 ```
 
 Output showed correct owner (`banner`), permissions (`0744`), and blank file created.
+
+---
+![Screenshot](./assets/Screenshot%202025-12-05%20193812.png)
 
 ---
 
