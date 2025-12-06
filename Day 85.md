@@ -76,7 +76,7 @@ ansible all -i inventory -m ping
 `playbook.yml`:
 
 ```yaml
----
+--
 - name: create a blank file
   hosts: app_servers
   become: true
