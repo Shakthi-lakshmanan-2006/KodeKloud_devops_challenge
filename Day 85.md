@@ -43,7 +43,7 @@ A YAML file containing tasks executed on remote servers.
 ### ✔ `file` Module  
 Used for:
  Creating files
-- Managing permissions
+ Managing permissions
 - Managing ownership
 
 ### ✔ User-Specific Variables  
