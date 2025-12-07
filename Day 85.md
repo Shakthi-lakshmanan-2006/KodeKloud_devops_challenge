@@ -42,7 +42,7 @@ A YAML file containing tasks executed on remote servers.
 
 ### ✔ `file` Module  
 Used for:
-- Creating files
+ Creating files
 - Managing permissions
 - Managing ownership
 
