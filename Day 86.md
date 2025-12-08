@@ -48,6 +48,9 @@ ansible all -i inventory -m ping
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-08%20195358.png)
+
+---
 
 ## 🛠 Steps I Followed to Complete the Task
 
@@ -95,6 +98,11 @@ UNREACHABLE! Invalid/incorrect password
 ### **5. Fixed the inventory formatting issue**
 The issue was caused by missing spacing/newlines. After correcting it, connectivity worked.
 
+---
+![Screenshot](./assets/Screenshot%202025-12-08%20200121.png)
+
+---
+
 ### **6. Re-ran the ping test**
 ```bash
 ansible stapp02 -i inventory -m ping
@@ -117,6 +125,9 @@ Success:
 | List hosts | `ansible all -i inventory --list-hosts` |
 | Test ping to a specific server | `ansible stapp02 -i inventory -m ping` |
 | Test ping to all servers | `ansible all -i inventory -m ping` |
+
+---
+![Screenshot](./assets/Screenshot%202025-12-08%20200238.png)
 
 ---
 
