@@ -53,7 +53,7 @@ A YAML file that defines tasks Ansible should perform, such as installing softwa
 Used to install packages on RHEL-based systems like CentOS.
 
 ---
-[Screenshot](./assets/Screenshot%202025-12-10%20190309.png)
+![Screenshot](./assets/Screenshot%202025-12-10%20190309.png)
 
 ---
 
