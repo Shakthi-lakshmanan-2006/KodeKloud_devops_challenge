@@ -53,6 +53,9 @@ A YAML file that defines tasks Ansible should perform, such as installing softwa
 Used to install packages on RHEL-based systems like CentOS.
 
 ---
+[Screenshot](./assets/Screenshot%202025-12-10%20190309.png)
+
+---
 
 ## **📂 My Task Steps (What I Did to Complete It)**
 
@@ -105,6 +108,12 @@ ansible-playbook -i inventory playbook.yml
 - Initially, some hosts failed due to temporary connection or yum lock issues.
 - Re-running the playbook eventually completed the installation on all servers.
 - Final run showed all servers with `ok=2` and no failures.
+
+---
+![Screenshot](./assets/Screenshot%202025-12-10%20191720.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-12-10%20191735.png)
 
 ---
 
