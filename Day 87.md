@@ -45,7 +45,7 @@ A YAML file that defines tasks Ansible should perform, such as installing softwa
 
 ### **3. Why Use Ansible for Package Installation?**
 - Works on multiple servers at once  
-- Ensures consistency  
+ Ensures consistency  
 - Easy to repeat  
 - No need to manually ssh into every server
 
