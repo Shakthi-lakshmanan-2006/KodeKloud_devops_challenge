@@ -44,10 +44,10 @@ server3
 A YAML file that defines tasks Ansible should perform, such as installing software.
 
 ### **3. Why Use Ansible for Package Installation?**
- Works on multiple servers at once  
+- Works on multiple servers at once  
 - Ensures consistency  
 - Easy to repeat  
- No need to manually ssh into every server
+- No need to manually ssh into every server
 
 ### **4. What is `yum` Module?**
 Used to install packages on RHEL-based systems like CentOS.
