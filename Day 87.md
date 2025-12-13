@@ -20,7 +20,7 @@ You are asked to:
 3. **Run the playbook** from the jump host as user `thor`.
 
 In simple words:  
-👉 *Tell Ansible where the servers are (inventory).*  
+- *Tell Ansible where the servers are (inventory).*  
 👉 *Tell Ansible what to do (playbook).*  
 👉 *Run the instruction and let Ansible handle the rest.*
 
