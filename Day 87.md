@@ -21,7 +21,7 @@ You are asked to:
 
 In simple words:  
 - *Tell Ansible where the servers are (inventory).*  
-👉 *Tell Ansible what to do (playbook).*  
+- *Tell Ansible what to do (playbook).*  
 👉 *Run the instruction and let Ansible handle the rest.*
 
 ---
