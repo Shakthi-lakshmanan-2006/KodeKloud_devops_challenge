@@ -51,6 +51,9 @@ This task is a great example of **infrastructure automation**:
 - Writing clean and reusable playbooks
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-14%20200301.png)
+
+---
 
 ## ✅ Steps I Followed to Complete the Task
 
@@ -130,6 +133,9 @@ The output confirmed:
         group: apache
         mode: '0744'
 ```
+
+---
+![Screenshot](./assets/Screenshot%202025-12-14%20200323.png)
 
 ---
 
