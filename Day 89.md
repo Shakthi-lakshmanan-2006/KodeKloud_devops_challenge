@@ -45,6 +45,9 @@ Before working on this task, it helps to understand:
 - How Ansible ensures **idempotency**
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-14%20204251.png)
+
+---
 
 ## 🛠️ What This Task Helps You Learn
 This task reinforces:
@@ -115,6 +118,12 @@ The playbook executed successfully on all application servers without any errors
         state: started
         enabled: yes
 ```
+
+---
+![Screenshot](./assets/Screenshot%202025-12-14%20204746.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-12-14%20205202.png)
 
 ---
 
