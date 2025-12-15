@@ -41,6 +41,9 @@ Before attempting this task, it’s important to understand:
 - Using `become: yes` for root-level tasks
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-15%20195148.png)
+
+---
 
 ## ⚙️ Task Requirements Breakdown
 
@@ -143,7 +146,12 @@ ansible-playbook -i inventory playbook.yml
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-15%20195230.png)
 
+---
+![Screenshot](./assets/Screenshot%202025-12-15%20195242.png)
+
+---
 ## 🧾 Summary of Commands Used
 
 ```bash
@@ -159,6 +167,9 @@ ansible-playbook -i inventory playbook.yml
 - Ansible makes it easy to enforce **security and consistency** across servers
 - Separate plays help maintain **clarity and correctness** when host requirements differ
 - This task closely mirrors **real-world DevOps access control scenarios**
+
+---
+![Screenshot](./assets/Screenshot%202025-12-15%20195357.png)
 
 ---
 
