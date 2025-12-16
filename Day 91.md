@@ -68,6 +68,9 @@ ansible-playbook -i inventory playbook.yml
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-15%20200924.png)
+
+---
 
 ## 🛠️ Steps I Followed to Complete the Task
 
@@ -121,6 +124,12 @@ ansible-playbook -i inventory playbook.yml
         group: apache
         mode: '0755'
 ```
+
+---
+![Screenshot](./assets/Screenshot%202025-12-15%20200859.png)
+
+---
+![Screenshot](./assets/Screenshot%202025-12-15%20201032.png)
 
 ---
 
