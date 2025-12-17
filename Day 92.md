@@ -44,6 +44,9 @@ Before attempting this task, you should be familiar with:
 - Running playbooks using an existing inventory
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-16%20184430.png)
+
+---
 
 ## ⚙️ Task Requirements Breakdown
 
@@ -128,6 +131,9 @@ This file was created using Ansible on {{ inventory_hostname }}
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-16%20184446.png)
+
+---
 
 ## 🧾 Summary of Commands Used
 
@@ -153,3 +159,7 @@ curl stapp01
 
 Continuing the **100 Days KodeKloud Engineer Challenge** with deeper Ansible concepts 💪
 
+---
+![Screenshot](./assets/Screenshot%202025-12-16%20184629.png)
+
+---
