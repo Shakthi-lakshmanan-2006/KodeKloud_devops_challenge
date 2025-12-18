@@ -125,6 +125,9 @@ ansible-playbook -i inventory playbook.yml
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-16%20192446.png)
+
+---
 
 ## 🧾 Summary of Commands Used
 
@@ -141,6 +144,9 @@ ansible-playbook -i inventory playbook.yml
 - `ansible_nodename` is useful for precise host identification
 - A single playbook can handle **multiple behaviors cleanly**
 - Conditionals reduce duplication and improve maintainability
+
+---
+![Screenshot](./assets/Screenshot%202025-12-16%20192921.png)
 
 ---
 
