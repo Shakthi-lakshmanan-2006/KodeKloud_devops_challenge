@@ -42,6 +42,9 @@ Before working on this task, it helps to understand:
 - Why `hosts: all` is important for conditional execution
 
 ---
+![Screenshot](./assets/Screenshot%202025-12-16%20192335.png)
+
+---
 
 ## ⚙️ Task Requirements Breakdown
 
