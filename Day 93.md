@@ -23,7 +23,7 @@ Instead of creating multiple playbooks or host-specific plays, the requirement w
 - Use **`when` conditionals** to decide:
   1. Which file to copy
   2. To which server it should go
-  - Which user should own it
+  3. Which user should own it
 
 Each app server should receive a **different file**, even though the playbook runs on all hosts.
 
