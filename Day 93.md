@@ -21,7 +21,7 @@ Instead of creating multiple playbooks or host-specific plays, the requirement w
 
 - Run a **single playbook on all app servers**
 - Use **`when` conditionals** to decide:
-  - Which file to copy
+  1. Which file to copy
   - To which server it should go
   - Which user should own it
 
