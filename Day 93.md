@@ -52,7 +52,7 @@ The playbook must:
 
 - Run on **all app servers** (`hosts: all`)
 - Use **`when` conditionals**
-3. Copy files from the jump host directory:
+- Copy files from the jump host directory:
 
   `/usr/src/devops/`
 
