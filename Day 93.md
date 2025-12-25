@@ -140,7 +140,7 @@ ansible-playbook -i inventory playbook.yml
 
 ## ✅ Key Takeaways
 
-1. `when` conditionals allow **host-specific logic** inside one playbook
+- `when` conditionals allow **host-specific logic** inside one playbook
 2. `ansible_nodename` is useful for precise host identification
 3. A single playbook can handle **multiple behaviors cleanly**
 4. Conditionals reduce duplication and improve maintainability
