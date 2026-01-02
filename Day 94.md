@@ -47,6 +47,9 @@ Before working on this task, it helps to know:
 - Working with files like `main.tf`
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-02%20190722.png)
+
+---
 
 ## 🛠️ Task Requirements
 
@@ -103,6 +106,9 @@ terraform apply
 Typed **yes** when prompted, and Terraform successfully created the VPC.
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-02%20191459.png)
+
+---
 
 ## ✅ Result
 
@@ -135,3 +141,8 @@ Typed **yes** when prompted, and Terraform successfully created the VPC.
 
 🔁 **On to Day 95!**  
 Consistent practice is the real superpower in DevOps 🚀
+
+---
+![Screenshot](./assets/Screenshot%202026-01-02%20191705.png)
+
+---
