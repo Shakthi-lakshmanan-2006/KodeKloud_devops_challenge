@@ -49,6 +49,9 @@ Before starting this task, it’s important to understand:
 - Terraform AWS Provider configuration
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-02%20194007.png)
+
+---
 
 ## 🛠️ Approach & Explanation
 
@@ -104,6 +107,9 @@ data "aws_vpc" "default" {
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-02%20195512.png)
+
+---
 
 ## ▶️ Steps I Followed to Complete the Task
 
@@ -153,3 +159,8 @@ data "aws_vpc" "default" {
 
 🚀 **Day 95 completed successfully!**  
 Onward to the next challenge in the **100 Days of KodeKloud** journey.
+
+---
+![Screenshot](./assets/Screenshot%202026-01-02%20195619.png)
+
+---
