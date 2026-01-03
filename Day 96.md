@@ -25,6 +25,9 @@ You are required to:
 In short: **Create a secure EC2 instance using Terraform and SSH authentication.**
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-03%20194410.png)
+
+---
 
 ## 📚 Prerequisites / Things to Know
 
@@ -123,6 +126,9 @@ data "aws_security_group" "default" {
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-03%20195928.png)
+
+---
 
 ## 📌 Summary of Commands Used
 
@@ -141,6 +147,9 @@ data "aws_security_group" "default" {
 - SSH key pair registered in AWS
 - Infrastructure managed completely via Terraform
 - Task completed as part of **Day 95 – KodeKloud 100 Days Challenge** 🎯
+
+---
+![Screenshot](./assets/Screenshot%202026-01-03%20200303.png)
 
 ---
 
