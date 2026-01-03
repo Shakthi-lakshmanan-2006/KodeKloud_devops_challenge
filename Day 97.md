@@ -32,6 +32,9 @@ The Nautilus DevOps team wants to:
 - The policy must be created using a **single `main.tf` file**
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-03%20202222.png)
+
+---
 
 ## 🧠 Things to Know Before Starting
 
@@ -105,6 +108,9 @@ resource "aws_iam_policy" "policy" {
 ```
 
 ---
+![Screenshot](./assets/Screenshot%202026-01-03%20203030.png)
+
+---
 
 ## 🚀 Steps Executed in the Terminal
 
@@ -153,3 +159,8 @@ This task was a great hands-on experience in:
 
 ✅ **Day 97 successfully completed!**  
 On to the next challenge 🚀
+
+---
+![Screenshot](./assets/Screenshot%202026-01-03%20203552.png)
+
+---
