@@ -42,7 +42,7 @@ Before working on this task, it’s helpful to understand:
 
 - **IAM Policies**: JSON documents that define permissions
 - **Terraform Basics**:
-  - `terraform init`
+  1. `terraform init`
   - `terraform validate`
   - `terraform plan`
   - `terraform apply`
