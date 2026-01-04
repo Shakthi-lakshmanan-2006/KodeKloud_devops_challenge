@@ -43,8 +43,8 @@ Before working on this task, it’s helpful to understand:
 - **IAM Policies**: JSON documents that define permissions
 - **Terraform Basics**:
   1. `terraform init`
-  - `terraform validate`
-  - `terraform plan`
+  2. `terraform validate`
+  3. `terraform plan`
   - `terraform apply`
 - **AWS Provider** in Terraform
 - **jsonencode()** function to convert Terraform syntax into valid JSON
