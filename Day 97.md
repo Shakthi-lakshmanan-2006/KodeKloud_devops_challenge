@@ -45,7 +45,7 @@ Before working on this task, it’s helpful to understand:
   1. `terraform init`
   2. `terraform validate`
   3. `terraform plan`
-  4. `terraform apply`
+  - `terraform apply`
 - **AWS Provider** in Terraform
 - **jsonencode()** function to convert Terraform syntax into valid JSON
 - IAM policy naming rules (no trailing spaces, only allowed characters)
