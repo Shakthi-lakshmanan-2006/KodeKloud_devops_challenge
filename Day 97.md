@@ -42,8 +42,8 @@ Before working on this task, it’s helpful to understand:
 
 - **IAM Policies**: JSON documents that define permissions
 - **Terraform Basics**:
-  1. `terraform init`
-  2. `terraform validate`
+  - `terraform init`
+  - `terraform validate`
   - `terraform plan`
   - `terraform apply`
 - **AWS Provider** in Terraform
