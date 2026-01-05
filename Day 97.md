@@ -44,7 +44,7 @@ Before working on this task, it’s helpful to understand:
 - **Terraform Basics**:
   1. `terraform init`
   2. `terraform validate`
-  3. `terraform plan`
+  - `terraform plan`
   - `terraform apply`
 - **AWS Provider** in Terraform
 - **jsonencode()** function to convert Terraform syntax into valid JSON
