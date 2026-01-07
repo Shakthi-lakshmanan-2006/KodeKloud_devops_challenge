@@ -152,8 +152,8 @@ terraform apply
 
 This task was a great hands-on experience in:
 
-1. Writing IAM policies using Terraform
-2. Understanding AWS permission boundaries
+- Writing IAM policies using Terraform
+- Understanding AWS permission boundaries
 - Debugging Terraform validation errors
 - Practicing Infrastructure as Code best practices
 
