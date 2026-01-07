@@ -154,7 +154,7 @@ This task was a great hands-on experience in:
 
 1. Writing IAM policies using Terraform
 2. Understanding AWS permission boundaries
-3. Debugging Terraform validation errors
+- Debugging Terraform validation errors
 - Practicing Infrastructure as Code best practices
 
 ✅ **Day 97 successfully completed!**  
