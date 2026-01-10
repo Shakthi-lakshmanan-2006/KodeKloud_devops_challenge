@@ -8,6 +8,11 @@ focused on creating a Virtual Private Cloud (VPC), a subnet inside it,
 and an EC2 instance that is accessible only within the VPC. This helps
 in building a secure and isolated cloud environment.
 
+---
+![Screenshot](./assets/Screenshot%202026-01-10%20211631.png)
+
+---
+
 ## Understanding the Task in Simple Words
 
 The main goal of this task was: - Create a **VPC** with a specific CIDR
@@ -68,11 +73,21 @@ I structured the Terraform configuration into three files:
     -   Allows all outbound traffic
 -   Launched an EC2 instance (`t2.micro`) inside the private subnet
 
+---
+![Screenshot](./assets/Screenshot%202026-01-10%20211619.png)
+
+---
+
 ### variables.tf (Reusability)
 
 -   Defined:
     -   `KKE_VPC_CIDR` → VPC CIDR block
     -   `KKE_SUBNET_CIDR` → Subnet CIDR block
+
+---
+![Screenshot](./assets/Screenshot%202026-01-10%20211645.png)
+
+---
 
 ### outputs.tf (Results)
 
@@ -80,6 +95,11 @@ I structured the Terraform configuration into three files:
     -   VPC name
     -   Subnet name
     -   EC2 instance name
+
+---
+![Screenshot](./assets/Screenshot%202026-01-10%20211703.png)
+
+---
 
 ## Steps I Followed to Complete the Task
 
@@ -119,6 +139,11 @@ instance
   terraform validate   Check configuration for syntax errors
   terraform plan       Preview the changes Terraform will apply
   terraform apply      Create and provision the AWS resources
+
+---
+![Screenshot](./assets/Screenshot%202026-01-10%20211810.png)
+
+---
 
 ## Final Thoughts
 
