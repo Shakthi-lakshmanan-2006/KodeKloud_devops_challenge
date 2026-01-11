@@ -1,5 +1,10 @@
 # Day 99 -- Fixing Terraform Duplicate Provider Error
 
+---
+![Screenshot](./assets/Screenshot%202026-01-11%20193457.png)
+
+---
+
 ## 🚨 Issue Encountered
 
 While running the following command:
@@ -33,6 +38,11 @@ Terraform detected **two identical `provider "aws"` blocks** and failed
 during initialization.
 
 ------------------------------------------------------------------------
+
+---
+![Screenshot](./assets/Screenshot%202026-01-11%20193513.png)
+
+---
 
 ## ❌ What Was Wrong
 
@@ -79,6 +89,10 @@ provider "aws" {
   region = "us-east-1"
 }
 ```
+---
+![Screemshot](./assets/Screenshot%202026-01-11%20193532.png)
+
+---
 
 ------------------------------------------------------------------------
 
@@ -104,6 +118,11 @@ Terraform initialized successfully without errors.
 ✔ KodeKloud labs may already include `provider.tf` by default
 
 ------------------------------------------------------------------------
+
+---
+![Screenshot](./assets/Screenshot%202026-01-11%20194138.png)
+
+---
 
 ## 🎯 Summary
 
