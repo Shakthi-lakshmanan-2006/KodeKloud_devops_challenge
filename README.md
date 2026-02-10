@@ -107,4 +107,4 @@ This repository contains my solutions and notes from the 100 Days of DevOps chal
 
 ---
 
-**Keywords:** 100 Days of DevOps, KodeKloud, DevOps challenges, Docker, Kubernetes, Ansible, Terraform, Jenkins, Linux, AWS , cloud
+**Keywords:** 100 Days of DevOps, KodeKloud, DevOps challenges, Docker, Kubernetes, Ansible, Terraform, Jenkins, Linux, AWS , Cloud
