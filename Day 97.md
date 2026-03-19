@@ -1,7 +1,7 @@
 # Day 97 – Creating an IAM Policy Using Terraform (KodeKloud Engineer)
 
 ## 📌 Challenge Title
-**Create an IAM Policy for EC2 Read-Only Access Using Terraform**
+**Create an IAM Policy for EC2 Read-Only Access Using Terraform**.
 
 ---
 
